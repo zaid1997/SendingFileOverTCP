@@ -25,7 +25,7 @@ class FileServer
                 Server.Start();
                 Console.WriteLine("Server established on {0}:{1}", IPv4, Port);
 
-                Console.WriteLine("Wating for connection to receive file...");
+                Console.WriteLine("Waiting for connection to receive file...");
                 using (var client = Server.AcceptTcpClient())
                 using (var stream = client.GetStream())
                 {
@@ -47,9 +47,9 @@ class FileServer
                      * File name with extension --> PathArray[PathArray.Length - 1]
                      */
 
-                    using (var output = File.Create(PathArray[PathArray.Length - 1]))
+                    using (var output = File.Create(PathArray[^1]))
                     {
-                        Console.WriteLine("Client connected.\nStarting to receive the file...");
+                        Console.WriteLine("Client connected.\nreceiving file...");
 
                         // read the file in chunks of 1KB
                         var buffer = new byte[1024];
