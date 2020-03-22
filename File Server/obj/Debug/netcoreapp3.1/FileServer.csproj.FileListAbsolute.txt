@@ -1,0 +1,22 @@
+C:\Users\Kindman\Desktop\FileServer\bin\Debug\netcoreapp3.1\FileServer.exe
+C:\Users\Kindman\Desktop\FileServer\bin\Debug\netcoreapp3.1\FileServer.deps.json
+C:\Users\Kindman\Desktop\FileServer\bin\Debug\netcoreapp3.1\FileServer.runtimeconfig.json
+C:\Users\Kindman\Desktop\FileServer\bin\Debug\netcoreapp3.1\FileServer.runtimeconfig.dev.json
+C:\Users\Kindman\Desktop\FileServer\bin\Debug\netcoreapp3.1\FileServer.dll
+C:\Users\Kindman\Desktop\FileServer\bin\Debug\netcoreapp3.1\FileServer.pdb
+C:\Users\Kindman\Desktop\FileServer\obj\Debug\netcoreapp3.1\FileServer.AssemblyInfoInputs.cache
+C:\Users\Kindman\Desktop\FileServer\obj\Debug\netcoreapp3.1\FileServer.AssemblyInfo.cs
+C:\Users\Kindman\Desktop\FileServer\obj\Debug\netcoreapp3.1\FileServer.dll
+C:\Users\Kindman\Desktop\FileServer\obj\Debug\netcoreapp3.1\FileServer.pdb
+C:\Users\Kindman\Desktop\FileServer\obj\Debug\netcoreapp3.1\FileServer.csprojAssemblyReference.cache
+C:\Users\Kindman\Desktop\SendFileOverTCP\File Server for GUI application\bin\Debug\netcoreapp3.1\FileServer.exe
+C:\Users\Kindman\Desktop\SendFileOverTCP\File Server for GUI application\bin\Debug\netcoreapp3.1\FileServer.deps.json
+C:\Users\Kindman\Desktop\SendFileOverTCP\File Server for GUI application\bin\Debug\netcoreapp3.1\FileServer.runtimeconfig.json
+C:\Users\Kindman\Desktop\SendFileOverTCP\File Server for GUI application\bin\Debug\netcoreapp3.1\FileServer.runtimeconfig.dev.json
+C:\Users\Kindman\Desktop\SendFileOverTCP\File Server for GUI application\bin\Debug\netcoreapp3.1\FileServer.dll
+C:\Users\Kindman\Desktop\SendFileOverTCP\File Server for GUI application\bin\Debug\netcoreapp3.1\FileServer.pdb
+C:\Users\Kindman\Desktop\SendFileOverTCP\File Server for GUI application\obj\Debug\netcoreapp3.1\FileServer.csprojAssemblyReference.cache
+C:\Users\Kindman\Desktop\SendFileOverTCP\File Server for GUI application\obj\Debug\netcoreapp3.1\FileServer.AssemblyInfoInputs.cache
+C:\Users\Kindman\Desktop\SendFileOverTCP\File Server for GUI application\obj\Debug\netcoreapp3.1\FileServer.AssemblyInfo.cs
+C:\Users\Kindman\Desktop\SendFileOverTCP\File Server for GUI application\obj\Debug\netcoreapp3.1\FileServer.dll
+C:\Users\Kindman\Desktop\SendFileOverTCP\File Server for GUI application\obj\Debug\netcoreapp3.1\FileServer.pdb

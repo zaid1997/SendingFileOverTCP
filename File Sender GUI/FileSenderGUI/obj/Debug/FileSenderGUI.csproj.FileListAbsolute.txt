@@ -1,0 +1,27 @@
+C:\Users\Zaid Kindman\Desktop\FileSenderGUI\FileSenderGUI\obj\Debug\FileSenderGUI.csprojAssemblyReference.cache
+C:\Users\Zaid Kindman\Desktop\FileSenderGUI\FileSenderGUI\obj\Debug\FileSenderGUI.Form1.resources
+C:\Users\Zaid Kindman\Desktop\FileSenderGUI\FileSenderGUI\obj\Debug\FileSenderGUI.Properties.Resources.resources
+C:\Users\Zaid Kindman\Desktop\FileSenderGUI\FileSenderGUI\obj\Debug\FileSenderGUI.csproj.GenerateResource.cache
+C:\Users\Zaid Kindman\Desktop\FileSenderGUI\FileSenderGUI\bin\Debug\FileSenderGUI.exe.config
+C:\Users\Zaid Kindman\Desktop\FileSenderGUI\FileSenderGUI\bin\Debug\FileSenderGUI.exe
+C:\Users\Zaid Kindman\Desktop\FileSenderGUI\FileSenderGUI\bin\Debug\FileSenderGUI.pdb
+C:\Users\Zaid Kindman\Desktop\FileSenderGUI\FileSenderGUI\obj\Debug\FileSenderGUI.exe
+C:\Users\Zaid Kindman\Desktop\FileSenderGUI\FileSenderGUI\obj\Debug\FileSenderGUI.pdb
+C:\Users\Kindman\Desktop\FileSenderGUI\FileSenderGUI\bin\Debug\FileSenderGUI.exe.config
+C:\Users\Kindman\Desktop\FileSenderGUI\FileSenderGUI\bin\Debug\FileSenderGUI.exe
+C:\Users\Kindman\Desktop\FileSenderGUI\FileSenderGUI\bin\Debug\FileSenderGUI.pdb
+C:\Users\Kindman\Desktop\FileSenderGUI\FileSenderGUI\obj\Debug\FileSenderGUI.csprojAssemblyReference.cache
+C:\Users\Kindman\Desktop\FileSenderGUI\FileSenderGUI\obj\Debug\FileSenderGUI.Form1.resources
+C:\Users\Kindman\Desktop\FileSenderGUI\FileSenderGUI\obj\Debug\FileSenderGUI.Properties.Resources.resources
+C:\Users\Kindman\Desktop\FileSenderGUI\FileSenderGUI\obj\Debug\FileSenderGUI.csproj.GenerateResource.cache
+C:\Users\Kindman\Desktop\FileSenderGUI\FileSenderGUI\obj\Debug\FileSenderGUI.exe
+C:\Users\Kindman\Desktop\FileSenderGUI\FileSenderGUI\obj\Debug\FileSenderGUI.pdb
+C:\Users\Kindman\Desktop\SendFileOverTCP\FileSenderGUI\FileSenderGUI\bin\Debug\FileSenderGUI.exe.config
+C:\Users\Kindman\Desktop\SendFileOverTCP\FileSenderGUI\FileSenderGUI\bin\Debug\FileSenderGUI.exe
+C:\Users\Kindman\Desktop\SendFileOverTCP\FileSenderGUI\FileSenderGUI\bin\Debug\FileSenderGUI.pdb
+C:\Users\Kindman\Desktop\SendFileOverTCP\FileSenderGUI\FileSenderGUI\obj\Debug\FileSenderGUI.csprojAssemblyReference.cache
+C:\Users\Kindman\Desktop\SendFileOverTCP\FileSenderGUI\FileSenderGUI\obj\Debug\FileSenderGUI.Form1.resources
+C:\Users\Kindman\Desktop\SendFileOverTCP\FileSenderGUI\FileSenderGUI\obj\Debug\FileSenderGUI.Properties.Resources.resources
+C:\Users\Kindman\Desktop\SendFileOverTCP\FileSenderGUI\FileSenderGUI\obj\Debug\FileSenderGUI.csproj.GenerateResource.cache
+C:\Users\Kindman\Desktop\SendFileOverTCP\FileSenderGUI\FileSenderGUI\obj\Debug\FileSenderGUI.exe
+C:\Users\Kindman\Desktop\SendFileOverTCP\FileSenderGUI\FileSenderGUI\obj\Debug\FileSenderGUI.pdb
